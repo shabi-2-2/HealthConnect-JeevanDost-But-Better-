@@ -79,13 +79,12 @@ A streamlined, validation-ready appointment form that syncs directly with the Su
 
 ---
 
-## 👨‍💻 Built by [Your Name]
+## 👨‍💻 Built by Shabi
 
 *Passionate about building software that saves lives.*
 
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/YOUR_PROFILE_URL)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Email**: [your@email.com](mailto:your@email.com)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/)
+- **Email**: [Email Me!](zhrizvi476@gmail.com)
 
 ---
 *© 2026 HealthConnect India. All rights reserved.*
