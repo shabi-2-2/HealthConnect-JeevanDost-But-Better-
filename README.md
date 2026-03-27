@@ -84,7 +84,6 @@ A streamlined, validation-ready appointment form that syncs directly with the Su
 *Passionate about building software that saves lives.*
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/shabi-haidar-rizvi-bab637385/)
-- **Email**: [Email Me!](zhrizvi476@gmail.com)
 
 ---
 *© 2026 HealthConnect India. All rights reserved.*
